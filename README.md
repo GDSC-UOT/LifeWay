@@ -27,7 +27,7 @@ With our app, we will put an end to the problem of poverty and reduce it. No one
 
 ## Our Team
 
--
--
--
--
+- Yaman Osama kamel
+- Abdul Qudoos Hamid Mosleh
+- Dhay salih Ahmed
+- Mustafa Laith Hussain
