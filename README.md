@@ -16,14 +16,13 @@ With our app, we will put an end to the problem of poverty and reduce it. No one
 ## Screenshots
 
 #### Sign-up
-![LifeWay1](https://user-images.githubusercontent.com/129291090/228799121-8a696d9c-3016-4bab-a706-3d4e74460322.png)
+
+![image](https://user-images.githubusercontent.com/114204270/230539304-a49f965a-85e6-4d47-b252-8040d038e5ed.png
 
 #### Sections
-![LifeWay2](https://user-images.githubusercontent.com/129291090/228799185-1b675eb6-69e4-4456-9a1f-f7cfc93bcdf1.png)
-
-![LifeWay3](https://user-images.githubusercontent.com/129291090/228799198-d1f4f8ce-07e8-4472-855d-3c78f82aa439.png)
-
-![LifeWay4](https://user-images.githubusercontent.com/129291090/228799245-81fa870d-ed9b-4dc7-bc0c-c9c97d80ca04.png)
+![image](https://user-images.githubusercontent.com/114204270/230539070-161cba7b-4204-4d25-8f84-7f91b191f988.png)
+![image](https://user-images.githubusercontent.com/114204270/230539122-b7bd2926-5cf7-4b84-ab95-0f6fc6d786cf.png)
+![image](https://user-images.githubusercontent.com/114204270/230539198-a4a50a23-bf04-491e-a426-aaaeb6d50093.png)
 
 ## Our Team
 
